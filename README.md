@@ -1,0 +1,2 @@
+# lsmap
+LameStation map creator
